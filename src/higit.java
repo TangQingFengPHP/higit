@@ -21,7 +21,7 @@ public class higit {
 
     public static void main(String[]args){
 
-        System.out.print("<h1>higit</h1>");
+        System.out.print("Hello World!");
     }
 
 }
